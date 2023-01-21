@@ -5,10 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
-## [Unreleased] 2023-02-04
+## [Unreleased] 2023-03-04
  
 - Support for selenium grid
 
+## [2.0.9] - 2023-01-22 03:00 AM IST
+### Added
+- Nothing
+### Changed
+- Updated README documentation with nRoBo logo and namasteydigitalindia.com logo
+- Updated README with video links
+### Fixed
+- Broken changelog link
+- Broken bug tracker link
+- 
 ## [2.0.6] - 2023-01-21 09:00 AM IST
 ### Added
 - Nothing
