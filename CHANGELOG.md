@@ -9,6 +9,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
  
 - Support for selenium grid
 
+## [2.0.5] - 2023-01-21 09:00 AM IST
+### Added
+- Nothing
+### Changed
+- Updated README documentation
+### Fixed
+- Broken changelog link
+- Broken bug tracker link
+
 ## [2.0.5] - 2023-01-18 11:00 PM IST
 ### Added
 - Added clear and helpful sample tests
