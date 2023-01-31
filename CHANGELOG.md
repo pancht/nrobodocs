@@ -9,6 +9,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
  
 - Support for selenium grid
 
+## [2.0.12] - 2023-01-22 03:00 AM IST
+### Added
+- Nothing
+### Changed
+- Nothing
+### Fixed
+- NameError while generating nRoBo Test Report
+
 ## [2.0.9] - 2023-01-22 03:00 AM IST
 ### Added
 - Nothing
